@@ -1,10 +1,10 @@
-int rightForward = 16; 
-int rightBackward = 17; 
-int leftForward = 18; 
-int leftBackward = 5;
+int rightForward = 2; 
+int rightBackward = 4; 
+int leftForward = 7; 
+int leftBackward = 8;
 
-int enableA = 22;
-int enableB = 23; 
+int enableA = 3;
+int enableB = 5; 
 
 // *************************
 
